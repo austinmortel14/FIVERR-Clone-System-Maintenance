@@ -22,7 +22,7 @@
       </button>
     </nav>
     <div class="container-fluid">
-      <div class="display-4 text-center mt-4 mb-4">Hello there and welcome to the Fiverr Clone!</div>
+      <div class="display-4 text-center mt-4 mb-4">Hi there! Welcome to the Fiverr Clone!</div>
       <div class="row">
         <div class="col-md-6">
           <div class="card shadow">
